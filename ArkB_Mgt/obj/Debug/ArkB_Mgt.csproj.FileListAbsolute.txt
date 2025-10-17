@@ -1,0 +1,12 @@
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\bin\Debug\ArkB_Mgt.exe.config
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\bin\Debug\ArkB_Mgt.exe
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\bin\Debug\ArkB_Mgt.pdb
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.csproj.AssemblyReference.cache
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.Properties.Resources.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.csproj.GenerateResource.cache
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.exe
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.pdb
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.exe.config
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.Login.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.RegistrationForm.resources
