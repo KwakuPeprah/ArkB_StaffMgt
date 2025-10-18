@@ -32,6 +32,16 @@ namespace ArkB_Mgt
 
             dataGridView1.DataSource = listData;
         }
+        public void clearFields()
+        {
+            txtEmpID_AddStaff.Clear();
+            txtFullName_AddStaff.Clear();
+            cboGender_AddStaff.SelectedIndex = -1;
+            txtPhone_AddStaff.Clear();
+            cboPosition_AddStaff.SelectedIndex = -1;
+            cboStatus_AddStaff.SelectedIndex = -1;
+            AddStaffPicture.Image = null;
+        }
         private void btnAdd_AddStaff_Click(object sender, EventArgs e)
         {
             if (txtEmpID_AddStaff.Text == ""
@@ -101,6 +111,8 @@ namespace ArkB_Mgt
 
                                     MessageBox.Show("Staff Added Successfully!",
                                         "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                                    clearFields();
                                 }
                             }
                         }
@@ -136,10 +148,106 @@ namespace ArkB_Mgt
             }
 
             catch (Exception ex)
-            { 
+            {
                 MessageBox.Show("An error occurred: " + ex.Message,
                     "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-       }
+        }
+
+        private void btnUpdate_AddStaff_Click(object sender, EventArgs e)
+        {
+            if (txtEmpID_AddStaff.Text == ""
+                || txtFullName_AddStaff.Text == ""
+                || cboGender_AddStaff.Text == ""
+                || txtPhone_AddStaff.Text == ""
+                || cboPosition_AddStaff.Text == ""
+                || cboStatus_AddStaff.Text == ""
+                || AddStaffPicture.Image == null)
+            {
+                MessageBox.Show("Please fill all blank fields",
+                    "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                DialogResult check = MessageBox.Show("Are you sure you want to UPDATE " +
+                    "Employee ID: " + txtEmpID_AddStaff.Text.Trim() + "?", "Confirmation Message"
+                    , MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (check == DialogResult.Yes)
+                {
+                    try
+                    {
+                        conn.Open();
+                        DateTime today = DateTime.Today;
+
+                        string updateStaff = "UPDATE staff SET full_name = @fullName" +
+                     ", gender = @gender, contact_number = @contactNum, position = @position" +
+                     ", update_date = @updateDate, status = @status" + 
+                     " WHERE employee_id = @employeeID";
+
+                        using (SqlCommand cmd = new SqlCommand(updateStaff, conn))
+                        {
+                            cmd.Parameters.AddWithValue("@employeeID", txtEmpID_AddStaff.Text.Trim());
+                            cmd.Parameters.AddWithValue("@fullName", txtFullName_AddStaff.Text.Trim());
+                            cmd.Parameters.AddWithValue("@gender", cboGender_AddStaff.Text.Trim());
+                            cmd.Parameters.AddWithValue("@contactNum", txtPhone_AddStaff.Text.Trim());
+                            cmd.Parameters.AddWithValue("@position", cboPosition_AddStaff.Text.Trim());
+                            cmd.Parameters.AddWithValue("@updateDate", today);
+                            cmd.Parameters.AddWithValue("@status", cboStatus_AddStaff.Text.Trim());
+
+                            cmd.ExecuteNonQuery();
+
+
+                            displayStaffData();
+
+                            MessageBox.Show("Staff Added Successfully!",
+                                "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("An error occurred: " + ex.Message,
+                            "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    finally
+                    {
+                        conn.Close();
+
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Update operation cancelled.",
+                        "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    clearFields();
+                }
+
+            }
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex != -1)
+            {
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+                txtEmpID_AddStaff.Text = row.Cells[1].Value.ToString();
+                txtFullName_AddStaff.Text = row.Cells[2].Value.ToString();
+                cboGender_AddStaff.Text = row.Cells[3].Value.ToString();
+                txtPhone_AddStaff.Text = row.Cells[4].Value.ToString();
+                cboPosition_AddStaff.Text = row.Cells[5].Value.ToString();
+                cboStatus_AddStaff.Text = row.Cells[8].Value.ToString();
+
+                string imagePath = row.Cells[6].Value.ToString();
+                if (imagePath != null)
+                {
+                    AddStaffPicture.Image = Image.FromFile(imagePath);
+                }
+                else
+                {
+                    AddStaffPicture.Image = null;
+                }
+            }
+        }
     }
 }

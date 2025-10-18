@@ -9,54 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,16 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -84,33 +28,9 @@
               "RelativeDocumentMoniker": "AddStaff.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs",
               "RelativeToolTip": "AddStaff.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEcAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAcwLgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T17:09:32.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StaffData.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\StaffData.cs",
-              "RelativeDocumentMoniker": "StaffData.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\StaffData.cs",
-              "RelativeToolTip": "StaffData.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T16:24:24.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-18T15:51:24.961Z",
+              "WhenOpened": "2025-10-18T21:16:26.044Z",
               "EditorCaption": ""
             },
             {
@@ -122,134 +42,7 @@
               "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs [Design]",
               "RelativeToolTip": "AddStaff.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T14:02:12.324Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Salary.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs",
-              "RelativeDocumentMoniker": "Salary.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs [Design]",
-              "RelativeToolTip": "Salary.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T14:24:39.243Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Dashboard.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs [Design]",
-              "RelativeToolTip": "Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T13:25:02.983Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T12:46:04.778Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAASwCoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T13:22:29.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegistrationForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\RegistrationForm.cs [Design]",
-              "RelativeToolTip": "RegistrationForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:40:24.603Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegistrationForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\RegistrationForm.cs",
-              "RelativeToolTip": "RegistrationForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:55:55.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Login.cs",
-              "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAASwEUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:21:23.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:02:45.208Z",
+              "WhenOpened": "2025-10-18T21:07:49.223Z",
               "EditorCaption": " [Design]"
             }
           ]
