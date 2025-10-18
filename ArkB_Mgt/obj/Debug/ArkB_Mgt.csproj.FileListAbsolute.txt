@@ -7,6 +7,10 @@ C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\De
 C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.exe
 C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.pdb
-C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.exe.config
 C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.Login.resources
 C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.RegistrationForm.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.MainForm.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.AddStaff.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.Dashboard.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.Salary.resources
+C:\Users\user\Documents\sweDoc\CSharp\Project_Work\ArkB_Naturals\ArkB_Mgt\obj\Debug\ArkB_Mgt.exe.config
