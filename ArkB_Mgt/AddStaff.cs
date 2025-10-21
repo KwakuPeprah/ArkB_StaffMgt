@@ -62,7 +62,7 @@ namespace ArkB_Mgt
                     try
                     {
                         conn.Open();
-                        string checkEmployeeID = "SELECT COUNT(*) FROM staff WHERE employee_id = @empID";
+                        string checkEmployeeID = "SELECT COUNT(*) FROM staff WHERE employee_id = @empID AND delete_date is NULL";
 
                         using (SqlCommand checkEm = new SqlCommand(checkEmployeeID, conn))
                         {
@@ -247,6 +247,77 @@ namespace ArkB_Mgt
                 {
                     AddStaffPicture.Image = null;
                 }
+            }
+        }
+
+        private void btnClear_AddStaff_Click(object sender, EventArgs e)
+        {
+            clearFields();
+        }
+
+        private void btnDelete_AddStaff_Click(object sender, EventArgs e)
+        {
+            if (txtEmpID_AddStaff.Text == ""
+                  || txtFullName_AddStaff.Text == ""
+                  || cboGender_AddStaff.Text == ""
+                  || txtPhone_AddStaff.Text == ""
+                  || cboPosition_AddStaff.Text == ""
+                  || cboStatus_AddStaff.Text == ""
+                  || AddStaffPicture.Image == null)
+            {
+                MessageBox.Show("Please fill all blank fields",
+                    "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                DialogResult check = MessageBox.Show("Are you sure you want to DELETE " +
+                    "Employee ID: " + txtEmpID_AddStaff.Text.Trim() + "?", "Confirmation Message"
+                    , MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (check == DialogResult.Yes)
+                {
+                    try
+                    {
+                        conn.Open();
+                        DateTime today = DateTime.Today;
+
+                        string updateStaff = "UPDATE staff SET delete_date = @deleteDate" +
+                         " WHERE employee_id = @employeeID";
+
+                        using (SqlCommand cmd = new SqlCommand(updateStaff, conn))
+                        {
+                            
+                            cmd.Parameters.AddWithValue("@deleteDate", today);
+                            cmd.Parameters.AddWithValue("@employeeID", txtEmpID_AddStaff.Text.Trim());
+
+                            cmd.ExecuteNonQuery();
+
+
+                            displayStaffData();
+
+                            MessageBox.Show("Staff Added Successfully!",
+                                "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("An error occurred: " + ex.Message,
+                            "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    finally
+                    {
+                        conn.Close();
+
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Update operation cancelled.",
+                        "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    clearFields();
+                }
+
             }
         }
     }

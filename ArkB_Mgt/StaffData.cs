@@ -72,5 +72,48 @@ namespace ArkB_Mgt
             }
             return staffList;
         }
+
+        public List<StaffData> salarystaffListData()
+        {
+            List<StaffData> staffList = new List<StaffData>();
+
+            string selectData = "SELECT * FROM staff WHERE Delete_date IS NULL";
+
+            // Use 'using' blocks to ensure the connection and command are closed and disposed
+            using (SqlConnection conn = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    conn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand(selectData, conn))
+                    {
+                        using (SqlDataReader reader = cmd.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                StaffData ed = new StaffData();
+                                ed.EmployeeID = reader["employee_id"].ToString();
+                                ed.Name = reader["full_name"].ToString();
+                                ed.Position = reader["position"].ToString();
+                                ed.Salary = reader["salary"] != DBNull.Value ? Convert.ToInt32(reader["salary"]) : 0;
+
+
+                                staffList.Add(ed);
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    // Show a message box if the data retrieval fails
+                    MessageBox.Show("Error fetching staff data: " + ex.Message,
+                        "Data Retrieval Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return staffList; // Return the empty list on failure
+                }
+                // 'finally' block is not needed here because the 'using' block handles closing the connection.
+            }
+            return staffList;
+        }
     }
 }

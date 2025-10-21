@@ -84,6 +84,7 @@
     <Compile Include="Salary.Designer.cs">
       <DependentUpon>Salary.cs</DependentUpon>
     </Compile>
+    <Compile Include="SalaryData.cs" />
     <Compile Include="StaffData.cs" />
     <EmbeddedResource Include="AddStaff.resx">
       <DependentUpon>AddStaff.cs</DependentUpon>
@@ -105,6 +106,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="RegistrationForm.resx">
       <DependentUpon>RegistrationForm.cs</DependentUpon>
@@ -127,6 +129,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Directory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkbflier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

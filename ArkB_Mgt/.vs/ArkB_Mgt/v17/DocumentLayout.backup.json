@@ -3,11 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|c:\\users\\user\\documents\\swedoc\\csharp\\project_work\\arkb_naturals\\arkb_mgt\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\salarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:salarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:staffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{639EFB99-0D68-46ED-8F4C-D57B01AC03C6}|ArkB_Mgt.csproj|solutionrelative:addstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,32 +54,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:27:31.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:15:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:11:38.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:22:21.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:18:38.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaryData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SalaryData.cs",
+              "RelativeDocumentMoniker": "SalaryData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\SalaryData.cs",
+              "RelativeToolTip": "SalaryData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:57:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs",
+              "RelativeDocumentMoniker": "Salary.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs",
+              "RelativeToolTip": "Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:25:58.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaffData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\StaffData.cs",
+              "RelativeDocumentMoniker": "StaffData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\StaffData.cs",
+              "RelativeToolTip": "StaffData.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwGgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:20:01.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs",
+              "RelativeDocumentMoniker": "Salary.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\Salary.cs [Design]",
+              "RelativeToolTip": "Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:13:30.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AddStaff.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs",
               "RelativeDocumentMoniker": "AddStaff.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs",
               "RelativeToolTip": "AddStaff.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAcwLgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T21:16:26.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T21:16:26.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "AddStaff.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs",
               "RelativeDocumentMoniker": "AddStaff.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\sweDoc\\CSharp\\Project_Work\\ArkB_Naturals\\ArkB_Mgt\\AddStaff.cs [Design]",
               "RelativeToolTip": "AddStaff.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T21:07:49.223Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-18T21:07:49.223Z"
             }
           ]
         }

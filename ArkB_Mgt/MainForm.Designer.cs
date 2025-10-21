@@ -38,12 +38,14 @@
             this.label4 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.dashboard1 = new ArkB_Mgt.Dashboard();
             this.addStaff1 = new ArkB_Mgt.AddStaff();
             this.salary1 = new ArkB_Mgt.Salary();
-            this.dashboard1 = new ArkB_Mgt.Dashboard();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -87,7 +89,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(46, 173);
+            this.label3.Location = new System.Drawing.Point(46, 199);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(144, 24);
             this.label3.TabIndex = 0;
@@ -149,6 +151,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.ForestGreen;
+            this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.btnSalary);
             this.panel2.Controls.Add(this.btnAddStaffm);
@@ -171,6 +174,14 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(951, 671);
             this.flowLayoutPanel1.TabIndex = 2;
             // 
+            // dashboard1
+            // 
+            this.dashboard1.BackColor = System.Drawing.Color.Gainsboro;
+            this.dashboard1.Location = new System.Drawing.Point(3, 3);
+            this.dashboard1.Name = "dashboard1";
+            this.dashboard1.Size = new System.Drawing.Size(875, 618);
+            this.dashboard1.TabIndex = 2;
+            // 
             // addStaff1
             // 
             this.addStaff1.Location = new System.Drawing.Point(3, 627);
@@ -185,13 +196,15 @@
             this.salary1.Size = new System.Drawing.Size(937, 673);
             this.salary1.TabIndex = 0;
             // 
-            // dashboard1
+            // pictureBox1
             // 
-            this.dashboard1.BackColor = System.Drawing.Color.Gainsboro;
-            this.dashboard1.Location = new System.Drawing.Point(3, 3);
-            this.dashboard1.Name = "dashboard1";
-            this.dashboard1.Size = new System.Drawing.Size(875, 618);
-            this.dashboard1.TabIndex = 2;
+            this.pictureBox1.Image = global::ArkB_Mgt.Properties.Resources.images;
+            this.pictureBox1.Location = new System.Drawing.Point(50, 38);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(165, 144);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
             // 
             // MainForm
             // 
@@ -210,6 +223,7 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.flowLayoutPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -229,5 +243,6 @@
         private AddStaff addStaff1;
         private Salary salary1;
         private Dashboard dashboard1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
